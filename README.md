@@ -10,5 +10,3 @@ I use sha256 in counter mode to encrypt data.
 The encryption key, a salt/nounce and a counter are hased with sha256.
 The sha256 output is xored with a 256bit data block.
 
-Please send feedback (sugestions, ideas, respond and bugs) to system.overlord@magheute.net
-
